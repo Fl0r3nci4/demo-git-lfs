@@ -1,1 +1,1 @@
-export const BASE_URL = '/demo-git-lfs-astro/';
+export const BASE_URL = '/demo-git-lfs/';
